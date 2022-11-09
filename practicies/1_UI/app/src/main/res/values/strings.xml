@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">preview_lec1</string>
+
+    <string-array name="un_array">
+        <item>Al-Aqsa</item>
+        <item>Al-Azhar</item>
+        <item>IUG</item>
+    </string-array>
+</resources>
